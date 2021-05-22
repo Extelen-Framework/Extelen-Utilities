@@ -1,0 +1,14 @@
+{
+  "name": "com.extelen.utilities",
+  "version": "1.0.0",
+  "displayName": "Extelen Utilities",
+  "description": "This package has different utilities.",
+  "unity": "2020.3", 
+  "dependencies": {
+  },
+  "keywords": ["animation"],
+  "author": {
+      "name": "Rodrigo Saguer",
+      "email": "extelendev@gmail.com"
+  }
+}
